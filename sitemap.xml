@@ -1,35 +1,35 @@
-<?xml-stylesheet type="text/xsl" href="http://user.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://CSH-Gh0st.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://user.github.io/</loc>
+    <loc>http://CSH-Gh0st.github.io/</loc>
     <lastmod>2020-06-10T11:25:59+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://user.github.io/post/first/</loc>
+    <loc>http://CSH-Gh0st.github.io/post/first/</loc>
     <lastmod>2020-06-10T11:25:59+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://user.github.io/post/</loc>
+    <loc>http://CSH-Gh0st.github.io/post/</loc>
     <lastmod>2020-06-10T11:25:59+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://user.github.io/categories/</loc>
+    <loc>http://CSH-Gh0st.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://user.github.io/tags/</loc>
+    <loc>http://CSH-Gh0st.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

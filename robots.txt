@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://user.github.io/sitemap.xml
+Sitemap: http://CSH-Gh0st.github.io/sitemap.xml
