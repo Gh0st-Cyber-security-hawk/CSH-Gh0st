@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gh0st</title>
+    <link>http://user.github.io/</link>
+    <description>Recent content on Gh0st</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 10 Jun 2020 11:25:59 +0800</lastBuildDate>
+    
+	<atom:link href="http://user.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gh0st</title>
+      <link>http://user.github.io/post/first/</link>
+      <pubDate>Wed, 10 Jun 2020 11:25:59 +0800</pubDate>
+      
+      <guid>http://user.github.io/post/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
